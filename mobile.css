@@ -1,0 +1,96 @@
+@media only screen and (max-width: 375px)
+  {
+    body {
+      background-image: url(bg-main-desktop.png);
+      background-repeat: no-repeat;
+      background-position: center;
+  }
+    .Right-top-img {
+      display: none;
+    }
+    .Main-div {
+      width: 375px;
+      height: 1945px;
+    }
+    .First-div {
+      width: 375px;
+      height: 524px;
+    }
+    .Black-div {
+      margin-top: 166px;
+      width: 375px;
+      height: 600px;
+      margin-left: 0px;
+    }
+    h1 {
+      width: 327px;
+      height: 144px;
+      font-size: 40px;
+      line-height: 48px;
+      letter-spacing: 0.45px;
+    }
+    .First-p {
+      width: 327px;
+      height: 156px;
+      font-size: 16px;
+      line-height: 26px;
+    }
+    .Black-div-back-img {
+      margin-left: 48px;
+      width: 280px;
+      height: 420px;
+      margin-top: 0px;
+    }
+    .Phone-img {
+      width: 209px;
+      height: 430px;
+      position: absolute;
+      margin-top: -90px;
+      margin-left: 81px;
+  }
+  .Orange-div-in-black {
+    position: absolute;
+    margin-left: 0px;
+    margin-top: 380px;
+    width: 375px;
+    height: 546px;
+    padding: 0px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.Ios-div {
+  width: 296px;
+  height: 61px;
+}
+.Android-div {
+  width: 296px;
+  height: 61px;
+}
+  h2 {
+  margin-top: 48px;
+}
+.Second-p {
+  width: 302px;
+  height: 140px;
+}
+footer {
+  position: absolute;
+  margin-top: 1700px;
+  display: flex;
+  flex-direction: column;
+  margin-left: -150px;
+}
+.Footer-p {
+  margin-left: 70px;
+  margin-top: 32px;
+  width: 250px;
+}
+.Div-icons {
+  margin-top: 64px;
+  margin-left: 70px;
+}
+.Equalizer-logo1 {
+  margin-left: 70px;
+}
+  }

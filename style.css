@@ -1,0 +1,196 @@
+@media only screen and (min-width: 768px)
+{
+    .Main-div {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    body {
+        background-image: url(bg-main-desktop.png);
+        background-repeat: no-repeat;
+        background-position: center;
+    }
+    h1 {
+        width: 1015px;
+        height: 176px;
+        font-size: 88px;
+        line-height: 88px;
+        color: #191826;
+        letter-spacing: -1px;
+    }
+    .First-p {
+        width: 825px;
+        height: 102px;
+        font-size: 20px;
+        line-height: 34px;
+        color: #191826;
+    }
+    .Right-top-img {
+        margin-left: 816px;
+    }
+    .Equalizer-logo {
+        margin-top: 61.99px;
+        margin-left: 166.12px;
+    }
+    .First-div {
+        display: flex;
+        flex-direction: column;
+    }
+    .First-div-imgs {
+        display: flex;
+        align-items: flex-start;
+        justify-content: space-between;
+    }
+    .First-div-info {
+        display: flex;
+        flex-direction: column;
+        position: absolute;
+        margin-top: 221px;
+        margin-left: 165px;
+    }
+    .First-p {
+        margin-top: 40px;
+    }
+    .Black-div{
+        width: 1110px;
+        height: 600px;
+        border-radius: 12px;
+        background-color: #191826;
+        margin-top: 321px;
+        margin-left: 165px;
+    }
+    .Phone-img {
+        width: 312px;
+        height: 642px;
+        position: absolute;
+        margin-left: 102px;
+        margin-top: -210px;
+    }
+    .Orange-div-in-black {
+        border-radius: 12px;
+        background-color: #fa7453;
+        padding: 54px;
+        position: absolute;
+        margin-left: 569px;
+        margin-top: 90px;
+    }
+    h2 {
+        width: 333px;
+        height: 52px;
+        font-size: 40px;
+        line-height: 52px;
+        color: #FCFAF9;
+        margin-top: 4px;
+    }
+    .Second-p {
+        width: 333px;
+        height: 170px;
+        font-size: 20px;
+        line-height: 34px;
+        color: #FCFAF9;
+        margin-top: 22px;
+    }
+    h3 {
+        height: 52px;
+        font-size: 52px;
+        line-height: 52px;
+        color: #FCFAF9;
+        letter-spacing: -0.2px;
+        margin-right: 16px;
+    }
+    .Month-p {
+        width: 70px;
+        height: 32px;
+        font-size: 20px;
+        line-height: 32px;
+        color: #FCFAF9;
+    }
+    .Ios-div:hover {
+        background-color: #66E2DC;
+    }
+    .Android-div:hover {
+        background-color: #FFB964;
+    }
+    .Ios-div {
+        width: 333px;
+        height: 61px;
+        border-radius: 12px;
+        background-color: #191826;
+        margin-top: 39px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        cursor: pointer;
+    }
+    .Ios-p {
+        width: 117px;
+        height: 32px;
+        font-size: 18px;
+        line-height: 32px;
+        letter-spacing: -0.18px;
+        color: #FCFAF9;
+    }
+    .Android-div {
+        width: 333px;
+        height: 61px;
+        border-radius: 12px;
+        background-color: #FCFAF9;
+        margin-top: 19px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        cursor: pointer;
+    }
+    .Money-div {
+        display: flex;
+        align-items: center;
+        margin-top: 39px;
+    }
+    .Android-icon {
+        margin-right: 11.14px;
+    }
+    .Ios-icon {
+        margin-right: 7.92px;
+    }
+    .Black-div-back-img {
+        position: absolute;
+        margin-left: 336px;
+        margin-top: -40px;
+    }
+    footer {
+        height: 79px;
+        margin-top: 202px;
+        display: flex;
+    }
+    .Footer-p {
+        width: 366px;
+        height: 79px;
+        font-size: 16px;
+        line-height: 26px;
+        color: #191826;
+        margin-left: 137.76px;
+    }
+    .Div-icons {
+        margin-left: 359px;
+        display: flex;
+        align-items: flex-start;
+        gap: 20px;
+    }
+    .Equalizer-logo1 {
+        width: 146.09px;
+        height: 32px;
+        margin-left: 165px;
+    }
+    .Facebook-icon {
+        cursor: pointer;
+    }
+    .Instagram-icon {
+        cursor: pointer;
+    }
+    .Twitter-icon {
+        cursor: pointer;
+    }
+    .Bold {
+        font-weight: bold;
+    }
+}
